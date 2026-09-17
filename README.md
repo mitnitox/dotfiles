@@ -7,6 +7,7 @@ Configuraciones personales versionadas. Cada carpeta es un paquete independiente
 | Aplicación | Descripción       | Carpeta  |
 |------------|-------------------|----------|
 | Neovim     | Editor de texto   | `nvim/`  |
+| Pi         | Coding agent      | `pi/`    |
 
 ## Instalación
 
