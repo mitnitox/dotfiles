@@ -1,0 +1,8 @@
+# pi agent: estado y credenciales
+pi/.pi/agent/auth.json
+pi/.pi/agent/sessions/
+pi/.pi/agent/bin/
+pi/.pi/agent/tmp/
+pi/.pi/agent/npm/node_modules/
+pi/.pi/agent/npm/package-lock.json
+pi/.pi/agent/models-store.json

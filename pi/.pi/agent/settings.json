@@ -1,0 +1,13 @@
+{
+  "lastChangelogVersion": "0.85.1",
+  "theme": "dark",
+  "defaultProvider": "minimax",
+  "defaultModel": "MiniMax-M3",
+  "defaultAgent": "plan",
+  "packages": [
+    "npm:pi-agent-mode",
+    "npm:@rmrdeveloper/sideroom-pi",
+    "npm:pi-native-search",
+    "npm:@tintinweb/pi-subagents"
+  ]
+}
